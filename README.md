@@ -1,9 +1,15 @@
 <!-- 제목 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyeonsik&fontSize=90" />
+# Hyeonsik Oh
+<div align="leading">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hyeonsik971029@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://peaceful-rooster-5ed.notion.site/d4a8e2221051429b82666778984bb4d5?pvs=74" target="_blank">
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
+  </a>
 </div>
 
-<h3 align="leading">📚 Tech Stack 📚</h3>
+<h3 align="leading">Tech Stack</h3>
 <div align="leading">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" />&nbsp
@@ -13,9 +19,8 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp
 </div>
 
-<br>
 
-<h3 align="leading">🧑🏻‍💻 Studying 🧑🏻‍💻</h3>
+<h3 align="leading">Studying</h3>
 <div align="leading">
   <a href="https://peaceful-rooster-5ed.notion.site/SwiftUI-4fc2f388fd964591a34e46cc2568a338?pvs=74">
     <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
@@ -25,28 +30,7 @@
   </a>
 </div>
 
-<br>
-
-<h3 align="leading">🛠 Tools 🛠</h3>
-<div align="leading">
-  <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+<h4 align="leading">Statistics</h4>
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonsik971029&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
-
-<br>
-
-<h3 align="leading">📫 Contact 📫</h3>
-<div align="leading">
-  <img src="https://img.shields.io/badge/01045927467-000000?style=for-the-badge&logo=paddle&logoColor=white" />&nbsp
-</div>
-
-<div align="leading">
-  <a href="mailto:hyeonsik971029@gmail.com">
-    <img src="https://img.shields.io/badge/hyeonsik971029@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-
-<br>
