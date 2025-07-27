@@ -8,6 +8,7 @@ ReactorKit을 활용하여 사내 프로젝트(커피 배달 서비스)와 개�
 
 ### 📚 Project
  - Sooum-iOS: 완전한 익명으로 운영되는 카드형 SNS 앱 서비스
+ - Team-Clip-Clibi/iOS: 사람들의 고민 공유를 통해 사용자 간 공감대 형성을 돕는 앱 서비스
  - weather: 공공 데이터 포털의 단기예보 조회서비스 데이터를 활용해 지역별 날씨 조회 앱 서비스
  - table-order: SwiftUI 및 Combine, TCA, Alamofire를 공부하기 위한 프로젝트
 
